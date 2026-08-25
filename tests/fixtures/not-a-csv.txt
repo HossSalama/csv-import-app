@@ -1,0 +1,1 @@
+this is a plain text file, not a CSV, used to test file-type rejection.
